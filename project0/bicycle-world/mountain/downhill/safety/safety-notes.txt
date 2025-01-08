@@ -1,2 +1,1 @@
-#!/usr/bin/bash
-echo "Do not paddle and use brakes while riding downhill."
+Do not paddle and use brakes while riding downhill
